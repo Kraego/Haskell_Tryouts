@@ -1,5 +1,5 @@
 # Haskell_Tryouts
-Some haskell stuff, simple examples how to use haskell.
+Some haskell stuff, simple examples how to use haskell, done during studies.
 
 ## Examples
 
