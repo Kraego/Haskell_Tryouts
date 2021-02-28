@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Kraegi Haskell Cheatsheet 
+# Kraego Haskell Cheatsheet 
 
 - [If working with stack](#if-working-with-stack)
 - [Familiar Functions / Operators](#familiar-functions--operators)
@@ -52,7 +52,7 @@
 * Append lists ```[1,2,3] ++ [4,5]``` -> [1,2,3,4,5]
 * Reverse a list ```reverse [1,2,3,4,5]``` -> [5,4,3,2,1]
 
-## Function Application (Zuweisung)
+## Function Application
 
 * Syntax: **with space character**
   * Example:
