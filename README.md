@@ -3,6 +3,7 @@ Some haskell stuff, simple examples how to use haskell.
 
 ## Examples
 
+* fibs.hs: Fibonacci stuff
 * KeyValueStore.hs: A simple keyvalue store using (how to use types in haskell)
 * Unfold.hs: how to implement unfolding, with usecase int2bin, and mapf + iterate with unfold.
 * Naturals.hs: working with type Natural - representing natural numbers.
