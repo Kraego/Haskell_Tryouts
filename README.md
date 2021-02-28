@@ -1,5 +1,6 @@
 # Haskell_Tryouts
 Some haskell stuff, simple examples how to use haskell, done during studies.
+Disclaimer: Done by a noob, a haskell pro would never use that long names ;-)
 
 ## Examples
 
