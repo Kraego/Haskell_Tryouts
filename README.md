@@ -3,6 +3,7 @@ Some haskell stuff, simple examples how to use haskell.
 
 ## Examples
 
+* simple.hs: Simple beginner stuff (reemplementing some functions, everything pure)
 * fibs.hs: Fibonacci stuff
 * KeyValueStore.hs: A simple keyvalue store using (how to use types in haskell)
 * Unfold.hs: how to implement unfolding, with usecase int2bin, and mapf + iterate with unfold.
