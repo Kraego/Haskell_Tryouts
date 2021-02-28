@@ -96,7 +96,7 @@ mapList f (a:as) = liftM2 (++) (f a >>= \b -> return [b]) (mapList f as)
 
 maptry = mapList testFunc1 [1,2,3,4] -- should be ['x', 'xx', 'xxx', 'xxxx']
 
--- hier Ergebnis verwerfen
+-- ignore result
 mapList_ :: Monad m => (a -> m b) -> [a] -> m ()
 mapList_ _ [] = return ()
 mapList_ f (a:as) = f a >>
