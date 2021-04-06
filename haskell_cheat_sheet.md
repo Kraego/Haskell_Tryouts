@@ -91,7 +91,7 @@ putStrLn $ show $ 1 + 1 --better
 ### Add packages to ghci
 
 With **stack** packages can be added  for example random
-  * *stack ghci [File to run]--package random*
+  * *stack ghci [File to run] --package random*
 
 ## Types
 
