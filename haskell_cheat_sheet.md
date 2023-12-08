@@ -4,13 +4,13 @@
 - [If working with stack](#if-working-with-stack)
 - [Familiar Functions / Operators](#familiar-functions--operators)
 - [Functions on Lists](#functions-on-lists)
-- [Function Application (Zuweisung)](#function-application-zuweisung)
+- [Function Application](#function-application)
 - [Syntax](#syntax)
 - [GHCi (Compiler interpreter)](#ghci-compiler-interpreter)
   - [Add packages to ghci](#add-packages-to-ghci)
 - [Types](#types)
 - [Conditions](#conditions)
-- [**$\lambda$ Lambda Expressions**](#lambda-lambda-expressions)
+- [**$\\lambda$ Lambda Expressions**](#lambda-lambda-expressions)
 - [Currying](#currying)
 - [Recursions](#recursions)
 - [Folds](#folds)
@@ -51,6 +51,7 @@
 * Product: product
 * Append lists ```[1,2,3] ++ [4,5]``` -> [1,2,3,4,5]
 * Reverse a list ```reverse [1,2,3,4,5]``` -> [5,4,3,2,1]
+* Tokenize string words use `words` (tokenize by " ")
 
 ## Function Application
 
